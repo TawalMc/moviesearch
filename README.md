@@ -11,3 +11,5 @@ This app requires:
 - Internet to retrieve data from themoviesdb
 - Writing your preferences or some app data in external files in your phone
 - Share options to share contents on another app
+
+**_NB_**: We don't use any of data to do anything with it. We don't collect anything from the app and it is a fun app to get started with cross-platform with ReactNative
